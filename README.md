@@ -1,6 +1,6 @@
 # Navigating Software Development in the Age of AI
 
-Welcome to the official repository for the "Navigating Software Development in the Age of AI" workshop, conducted by Rahul Kulkarni (DoNew) and Dr. Jayakrishnan M (IIT Madras).
+Welcome to the official repository for the "Navigating Software Development in the Age of AI" workshop, conducted by Rahul Kulkarni [DoNew](https://www.godonew.com/) and Dr. Jayakrishnan M [CODE, IIT Madras](https://code.iitm.ac.in/).
 
 ## About This Workshop
 
@@ -68,7 +68,7 @@ This repository serves as a living document that will evolve throughout the work
 
 ## Contributing
 
-We encourage workshop participants to contribute to this repository by sharing their insights, projects, and useful prompts. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We encourage workshop participants to contribute to this repository by sharing their insights, projects, and useful prompts. See [CONTRIBUTING.md](/community/CONTRIBUTING.md) for guidelines. Please do check the [CODE OF CONDUCT](/community/CODE_OF_CONDUCT.md) first to understand the expectations from the participant.
 
 ## Instructors
 
@@ -96,4 +96,4 @@ This transparency builds trust, educates others about responsible AI use, and mo
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the dual license of MIT License and Creative Commons Share Alike 4.0 - see the [LICENSE](/LICENSE.md) file for details.
