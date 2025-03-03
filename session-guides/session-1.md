@@ -4,6 +4,7 @@
 
 **Duration**: 1 hour
 **Format**: Conversational dialogue between instructors with hands-on activities
+
 **Objectives**: 
 - Introduce the changing landscape of software development
 - Provide an overview of AI tools for coding
@@ -41,3 +42,14 @@
 - Educational considerations (fundamentals vs tools)
 - Ethical and legal considerations
 
+## Recording and Transcript
+The recording of this session can be accessed [here](https://drive.google.com/file/d/1xx9pw_Mj_fD_-jRELW8e_J9GSND-jVkY/view) and the transcripts are available [here](https://docs.google.com/document/d/1kaWKkuNvccKz4iBEyql_Ns-gBAXSepdAOozD6-ijQn8)
+
+## ShowNotes discussed during the session
+1. https://www.bigcommerce.com/glossary/what-is-facebook-exchange/
+2. https://medium.com/smalltalk-talk/lisp-smalltalk-and-the-power-of-symmetry-8bd96aaa0c0c
+3. https://en.wikipedia.org/wiki/Systems_thinking
+4. https://en.wikipedia.org/wiki/System_of_record
+5. https://code.visualstudio.com/insiders/
+6. https://cline.bot/
+7. https://webassembly.org/
