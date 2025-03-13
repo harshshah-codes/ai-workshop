@@ -2,21 +2,11 @@
 
 ## Session Overview
 
-**Duration**: 1 hour
-**Format**: Conversational dialogue between instructors with hands-on activities
-
 **Objectives**: 
 - Create a simple to-do list application using AI assistance
 - Demonstrate AI-enhanced development workflows
 - Introduce practical tools for each phase of development
 - Reinforce system thinking and architecture principles
-
-## Preparation Checklist
-
-- [ ] Ensure participants have VSCode Insiders installed
-- [ ] Confirm access to GitHub Copilot Chat and Edits
-- [ ] Verify Node.js installation for testing
-- [ ] Check Docker installation
 
 
 ### 1. Outlining Requirements with AI Assistance (25 minutes)
@@ -212,3 +202,6 @@ sequenceDiagram
 4. **Docker configuration issues**:
    - Solution: Specify exact requirements in comments
    - Example: `# Dockerfile for a simple static HTML/JS/CSS site served via nginx`
+
+## Recording and Transcript
+The recording of this session can be accessed [here](https://drive.google.com/file/d/1QBlfSF_PCzlZX7zn7_6cc2uUg9fgDfCh) and the transcripts are available [here](https://docs.google.com/document/d/15FvF0odSi0t21cV1aKC-mt0Z_laCHq46KqAJM-v2918)
